@@ -1,0 +1,15 @@
+<table style="width:100%">
+h1 {
+  text-align: center;
+}
+ 
+body {background-color:rgb(25, 6, 90)}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.center {
+  text-align: center;
+}

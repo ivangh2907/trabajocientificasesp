@@ -1,0 +1,23 @@
+<table style="width:100%">
+h1 {
+  text-align: center;
+  background-color: rgb(250, 251, 230);
+}
+ 
+table, td, th 
+  {
+  border: 1px  grey;
+  }
+ 
+  table {
+  border-collapse: collapse;
+  width: 100%;
+  }
+ 
+  th {
+  height: 70px;
+   }
+  td {
+  text-align: center;
+  }
+body {background-color:pink}
